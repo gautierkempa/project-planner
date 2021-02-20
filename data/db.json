@@ -1,0 +1,16 @@
+{
+    "projects": [
+      {
+          "id": 1,
+          "title":"Create new homepagebanner",
+          "details": "Lorem ipsum",
+          "complete": false
+      },
+      {
+          "id": 2,
+          "title":"Love digital marketing",
+          "details": "Lorem ipsum",
+          "complete": true
+      }
+    ]
+}
