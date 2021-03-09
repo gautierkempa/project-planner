@@ -1,16 +1,22 @@
 {
-    "projects": [
-      {
-          "id": 1,
-          "title":"Create new homepagebanner",
-          "details": "Lorem ipsum",
-          "complete": false
-      },
-      {
-          "id": 2,
-          "title":"Love digital marketing",
-          "details": "Lorem ipsum",
-          "complete": true
-      }
-    ]
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner againnn !!!",
+      "details": "Lorem ipsum loremp ejcjekk",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Love digital marketing",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "fuck league of legends",
+      "details": "et brand",
+      "complete": true,
+      "id": 3
+    }
+  ]
 }
